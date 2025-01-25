@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @synthorax99
 - 👀 I’m interested in Computer Scince, Math, Puzzles, Challenges, Problem Solving, Learning and Weightlifting
-- 🌱 I’m currently learning Gopher
+- 🌱 I’m currently learning Go
 - 😄 Pronouns: he/him
 
 <!---
